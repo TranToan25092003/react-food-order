@@ -19,6 +19,7 @@ const Cart = (props) => {
     cartCtx.addItem({ ...item, amount: 1 });
     /**
      * Oke blyat heheheheh
+     * 
      */
   };
 
